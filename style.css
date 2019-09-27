@@ -176,7 +176,7 @@ video {
       padding: 10px 0;
       font-size: 50px;
       text-transform: uppercase;
-      min-height: 50px;
+      max-height: 100px;
       font-weight: bold;
       transition: all 0.3s ease-out;
 }
