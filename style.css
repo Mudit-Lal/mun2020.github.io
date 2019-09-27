@@ -176,13 +176,13 @@ video {
       padding: 10px 0;
       font-size: 50px;
       text-transform: uppercase;
-      max-height: 100px;
+      height: 60px;
       font-weight: bold;
       transition: all 0.3s ease-out;
 }
 
 #resize li:nth-child(1) {
-      margin-top: 140px;
+      margin-top: 120px;
 }
 
 #resize #menu li a {
