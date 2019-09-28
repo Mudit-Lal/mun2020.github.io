@@ -216,6 +216,7 @@ video {
             font-weight: lighter !important;
             color: #FFF !important;
             transition: all 500ms ease-out;
+            letter-spacing: 2px;
       }
 
       nav #menu {
@@ -232,7 +233,7 @@ video {
       position: absolute;
       margin-top: 100vh;
       width: 100%;
-      background-color: #FBE5C0;
+      background-color:#fff6e8;
 
 }
 
