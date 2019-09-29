@@ -325,7 +325,7 @@ a button:hover{
 }
 
 .team-img {
-      background: grey;
+      background: rgba(26, 51, 79,1);
       height: 340px;
       min-width: 200px;
 }
