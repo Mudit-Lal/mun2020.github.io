@@ -306,9 +306,10 @@ a button:hover{
       margin: 30px 0;
 }
 
-.icon i{
-      font-size: 36px;
+.icon .num{
+      font-size: 44px;
       color:#FF7F50 ;
+      font-family: 'Playfair Display', serif;
 }
 
 .icon-title {
@@ -317,4 +318,5 @@ a button:hover{
       color: #fff6e8;
       font-weight: lighter;
       font-family: 'Poppins', sans-serif;
+      letter-spacing: 2px;
 }
