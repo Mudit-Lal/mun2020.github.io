@@ -424,7 +424,7 @@ a button1:hover{
   font-family: 'Poppins', sans-serif;
   }
 .newsletter .btn:hover{
-    background-color:#FF7F50;
+    background-color: rgb(26, 51, 79);
     color: #fff6e8;
     transition: 0.6s ease-in;
     border: 1pt solid #FF7F50;
