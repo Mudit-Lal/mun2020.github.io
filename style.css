@@ -425,7 +425,7 @@ a button1:hover{
   }
 .newsletter .btn:hover{
     background-color:#FF7F50;
-    color: #fff6e8;
+    color: rgb(26, 51, 79);
     transition: 0.6s ease-in;
     border: 1pt solid #FF7F50;
 }
