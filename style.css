@@ -486,6 +486,7 @@ textarea:focus {
   letter-spacing: 2px;
   padding: 18px 36px;
   font-family: 'Poppins', sans-serif;
+  color: #FF7F50;
 }
 #contact-form button:hover{
   background-color: #FF7F50;
