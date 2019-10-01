@@ -478,7 +478,15 @@ textarea:focus {
 .textarea {
       border-bottom: 1px solid #c9c9c9;
 }
-
+#contact-form button{
+  background: none;
+  border: 1pt solid #FF7F50;
+  text-transform: uppercase !important;
+  font-size: 16px !important;
+  letter-spacing: 2px;
+  padding: 18px 36px;
+  font-family: 'Poppins', sans-serif;
+}
 @media(max-width: 900px) {
       #contact-form {
             margin: 5% 0;
