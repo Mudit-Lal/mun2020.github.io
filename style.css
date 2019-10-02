@@ -430,3 +430,6 @@ a button1:hover{
     transition: 0.6s ease-in;
     border: 1pt solid #FF7F50;
 }
+.newsletters{
+  padding: 60px 0;
+}
