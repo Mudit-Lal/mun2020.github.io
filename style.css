@@ -438,6 +438,6 @@ a button1:hover{
 .map iframe{
   height: auto;
   width: auto;
-  margin-left: 0;
+  padding-left: 0;
 }
 }
