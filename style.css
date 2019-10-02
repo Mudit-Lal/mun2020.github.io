@@ -454,7 +454,7 @@ a button1:hover{
 }
 
 .newsletters .btn{
-  background: rgb(26, 51, 79);
+  background-color:#fff6e8;
   color: #FF7F50;
   border: 1pt solid #FF7F50;
   text-transform: uppercase !important;
@@ -465,7 +465,7 @@ a button1:hover{
   }
 .newsletters .btn:hover{
     background-color:#FF7F50;
-    color: rgb(26, 51, 79);
+    color: #fff6e8;
     transition: 0.6s ease-in;
     border: 1pt solid #FF7F50;
 }
