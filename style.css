@@ -430,3 +430,9 @@ a button1:hover{
     transition: 0.6s ease-in;
     border: 1pt solid #FF7F50;
 }
+@media(max-width: 900px) {
+.map iframe{
+  height: auto;
+  width: auto;
+}
+}
