@@ -473,7 +473,7 @@ a button1:hover{
       background: rgb(26, 51, 79);
 }
 
-#media, #address, #mail, .copyright {
+#media, #address, #mail,  {
       text-align: center !important;
 }
 
@@ -516,10 +516,4 @@ a button1:hover{
       .footer .container {
             width: 92% !important;
       }
-}
-.footer h5{
-  font-size: 24px !important;
-  font-family: 'Playfair Display', serif;
-  text-align: center;
-  color: #fff6e8;
 }
