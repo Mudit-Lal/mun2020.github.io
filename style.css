@@ -488,7 +488,7 @@ a button1:hover{
 
 .footer h4 {
       font-weight: lighter;
-      color: #fff;
+      color: #fff6e8;
 }
 
 .footer p {
@@ -498,8 +498,7 @@ a button1:hover{
 }
 
 .footer li {
-      font-weight: lighter;
-      color: #fff;
+      color: #fff6e8;
       padding-left: 20px;
       font-size: 18px !important;
 }
