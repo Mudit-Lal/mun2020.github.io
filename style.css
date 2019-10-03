@@ -473,7 +473,7 @@ a button1:hover{
       background: rgb(26, 51, 79);
 }
 
-#media, #address, #mail {
+#media, #address, #mail, .copyright {
       text-align: center !important;
 }
 
