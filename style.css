@@ -511,6 +511,7 @@ a button1:hover{
 
 #media ul li {
       display: inline-block;
+
 }
 
 @media(max-width: 900px) {
@@ -518,4 +519,10 @@ a button1:hover{
             width: 92% !important;
       }
 }
-.
+.newsletter h4{
+  color:  #fff6e8;
+  margin-bottom: 40px;
+  font-family: 'Playfair Display', serif;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
