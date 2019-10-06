@@ -534,3 +534,6 @@ a button1:hover{
 .newsletter hr{
   border-color: #FF7F50;
 }
+svg{
+  background-color: rgb(26, 51, 79);
+}
