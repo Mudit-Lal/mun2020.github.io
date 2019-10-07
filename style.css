@@ -275,6 +275,7 @@ a button {
       text-decoration:none;
       font-family: 'Poppins', sans-serif;
       color: #FF7F50;
+      border-radius: 4px;
 }
 
 button{
